@@ -1,0 +1,123 @@
+{
+  "food": [
+    "groceries",
+    "fruits_vegetables",
+    "dairy_bakery",
+    "dining_out",
+    "coffee_tea",
+    "snacks",
+    "delivery_fees",
+    "other"
+  ],
+  "transport": [
+    "fuel",
+    "public_transport",
+    "auto_rickshaw",
+    "taxi_cab",
+    "รถ",
+    "vehicle_maintenance",
+    "parking",
+    "tolls",
+    "other"
+  ],
+  "housing": [
+    "rent",
+    "maintenance",
+    "repairs",
+    "furniture",
+    "home_appliances",
+    "cleaning",
+    "security",
+    "other"
+  ],
+  "utilities": [
+    "electricity",
+    "water",
+    "gas",
+    "internet",
+    "mobile_recharge",
+    "cable_dth",
+    "other"
+  ],
+  "health": [
+    "medicines",
+    "doctor_consultation",
+    "hospital",
+    "tests",
+    "health_insurance",
+    "other"
+  ],
+  "education": [
+    "college_fees",
+    "school_fees",
+    "books",
+    "stationery",
+    "online_courses",
+    "exam_fees",
+    "other"
+  ],
+  "shopping": [
+    "clothes",
+    "shoes",
+    "accessories",
+    "electronics",
+    "personal_care",
+    "household_items",
+    "other"
+  ],
+  "entertainment": [
+    "movies",
+    "games",
+    "subscriptions",
+    "music",
+    "events",
+    "other"
+  ],
+  "personal": [
+    "salon",
+    "beauty",
+    "gym",
+    "hobbies",
+    "gifts",
+    "other"
+  ],
+  "financial": [
+    "bank_charges",
+    "loan_payment",
+    "credit_card_payment",
+    "investment",
+    "insurance",
+    "other"
+  ],
+  "travel": [
+    "flight",
+    "train",
+    "bus",
+    "hotel",
+    "旅行",
+    "travel_food",
+    "sightseeing",
+    "other"
+  ],
+  "family": [
+    "children",
+    "parents",
+    "family_events",
+    "gifts",
+    "other"
+  ],
+  "work": [
+    "office_supplies",
+    "business_travel",
+    "work_meals",
+    "professional_fees",
+    "other"
+  ],
+  "others": [
+    "donations",
+    "charity",
+    "miscellaneous",
+    "unexpected_expense",
+    "other"
+  ]
+}
